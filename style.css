@@ -1,0 +1,18 @@
+/* img {
+    width: 400px;
+    margin-left: 100px;
+}
+
+section {
+    margin-left: 150px;
+    margin-right: 150px;
+} */
+
+@media (max-width: 768px) {
+    .order-2 {
+        order: 2;
+    }
+    .order-1 {
+        order: 1;
+    }
+}
